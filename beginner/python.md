@@ -13,9 +13,15 @@
 #####   **Note:** A palindrome is a word, phrase, or sequence that reads the same backward as forward, e.g. madam, Level or My gym.
 
 ## Submission: 
+s=input("Enter a string")
+def checker(s):
+s=s.lower()
+s=s.replace(" " "")
+return s==[::-1]
 
 - Push your solution to github repo created 
 
 - submit the URL on the application form here: https://bit.ly/SCA-mentee-C4
 
 *Good luck!*
+
